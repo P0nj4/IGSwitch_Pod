@@ -1,0 +1,16 @@
+PODS:
+  - IGSwitch (0.1.0)
+
+DEPENDENCIES:
+  - IGSwitch (from `../`)
+
+EXTERNAL SOURCES:
+  IGSwitch:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IGSwitch: 1ad68ee90b9fc70e0bae77fe7d0576c12b384d7c
+
+PODFILE CHECKSUM: eb34672a635994ef1c06dbc392695be443158f48
+
+COCOAPODS: 1.2.0

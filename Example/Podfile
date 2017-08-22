@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'IGSwitch_Example' do
+  pod 'IGSwitch', :path => '../'
+
+  target 'IGSwitch_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
